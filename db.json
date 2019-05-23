@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Post 4",
       "desc": "Lorem ipsum..",
-      "brand": "Serie-A",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "title": "Post 7",
       "desc": "Lorem ipsum..",
-      "brand": "Premier-League",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "title": "Post 8",
       "desc": "Lorem ipsum..",
-      "brand": "Premier-League",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -76,7 +76,7 @@
       "id": 10,
       "title": "Post 10",
       "desc": "Lorem ipsum..",
-      "brand": "Ligue-1",
+      "brand": "Liga-Bancomer",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -84,44 +84,12 @@
       "id": 11,
       "title": "Post 10",
       "desc": "Lorem ipsum..",
-      "brand": "Ligue-1",
+      "brand": "Liga-Bancomer",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 12,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "Ligue-1",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 13,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "Liga-Bancomer",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 14,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "Liga-Bancomer",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 15,
-      "title": "Post 10",
-      "desc": "Lorem ipsum..",
-      "brand": "Liga-Bancomer",
-      "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
-    },
-    {
-      "id": 16,
       "title": "Post 10",
       "desc": "Lorem ipsum..",
       "brand": "Liga-Bancomer",
