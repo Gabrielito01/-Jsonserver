@@ -38,7 +38,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Premier-League",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Chelsea_FC_logo.svg/1200px-Chelsea_FC_logo.svg.png"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Premier-League",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/it/e/e8/Liverpool_FC_logo.svg"
     },
     {
       "id": 7,
@@ -54,15 +54,15 @@
       "desc": "Lorem ipsum..",
       "brand": "Ligue-1",
       "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png"
     },
     {
       "id": 8,
-      "title": "Olympique-Lion",
+      "title": "Monaco",
       "desc": "Lorem ipsum..",
       "brand": "Ligue-1",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/it/9/9c/Logo_AS_Monaco_2013.png"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Ligue-1",
       "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://upload.wikimedia.org/wikipedia/it/archive/1/1f/20130529151204%21Logoogcn.jpg"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Liga-Bancomer",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/it/0/07/Fc_barcelona.png"
     },
     {
       "id": 11,
@@ -86,7 +86,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Liga-Bancomer",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0c/Real_Madrid_CF_logo.svg/732px-Real_Madrid_CF_logo.svg.png"
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Liga-Bancomer",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/1200px-Atletico_Madrid_2017_logo.svg.png"
     }
   ],
   "singleitems": [
