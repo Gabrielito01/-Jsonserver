@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Post 1",
       "desc": "Lorem ipsum..",
-      "brand": "nike",
+      "brand": "Serie-A",
       "price": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "title": "Post 2",
       "desc": "Lorem ipsum ",
-      "brand": "gang",
+      "brand": "Serie-A",
       "price": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "title": "Post 3",
       "desc": "Lorem ipsum ",
-      "brand": "iceice",
+      "brand": "Serie-A",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "title": "Post 4",
       "desc": "Lorem ipsum..",
-      "brand": "mike",
+      "brand": "Serie-A",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "title": "Post 5",
       "desc": "Lorem ipsum..",
-      "brand": "iceice",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "title": "Post 6",
       "desc": "Lorem ipsum..",
-      "brand": "iceice",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -52,7 +52,7 @@
       "id": 7,
       "title": "Post 7",
       "desc": "Lorem ipsum..",
-      "brand": "gang",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -60,7 +60,7 @@
       "id": 8,
       "title": "Post 8",
       "desc": "Lorem ipsum..",
-      "brand": "iceice",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "title": "Post 9",
       "desc": "Lorem ipsum..",
-      "brand": "iceice",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -76,7 +76,55 @@
       "id": 10,
       "title": "Post 10",
       "desc": "Lorem ipsum..",
-      "brand": "daje",
+      "brand": "Ligue-1",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 11,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Ligue-1",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 12,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Ligue-1",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 13,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 14,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 15,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+    {
+      "id": 16,
+      "title": "Post 10",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     }
@@ -86,7 +134,7 @@
       "id": 1,
       "title": "Post 1",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "nike",
+      "brand": "Serie",
       "price": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
@@ -182,22 +230,16 @@
   ],
   "brands": [
     {
-      "brand": "Serie A"
+      "brand": "Serie-A"
     },
     {
-      "brand": "Premier League"
+      "brand": "Premier-League"
     },
     {
-      "brand": "Ligue 1"
+      "brand": "Ligue-1"
     },
     {
-      "brand": "Liga Bancomer"
-    },
-    {
-      "brand": "Eredevise"
-    },
-    {
-      "brand": "Liga-nos"
+      "brand": "Liga-Bancomer"
     }
   ]
 }
