@@ -22,7 +22,7 @@
       "desc": "Lorem ipsum ",
       "brand": "Serie-A",
       "price": "16$",
-      "img": "https://via.placeholder.com/700x400"
+      "img": "http://www.canaleotto.it/wp-content/uploads/2012/12/ssc-napoli-logo-ufficiale.jpg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "desc": "Lorem ipsum..",
       "brand": "Premier-League",
       "price": "16$",
-      "img": "http://lorempixel.com/g/700/400/"
+      "img": "https://upload.wikimedia.org/wikipedia/it/2/26/Manchester_United_logo.png"
     },
     {
       "id": 5,
