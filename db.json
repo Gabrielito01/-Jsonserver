@@ -100,84 +100,101 @@
   "singleitems": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "Juve",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "Serie",
+      "brand": "Serie-A",
       "price": "12$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Milan",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
+      "brand": "Serie-A",
       "price": "13$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 3,
-      "title": "Post 3",
+      "title": "Napoli",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
+      "brand": "Serie-A",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 4,
-      "title": "Post 4",
+      "title": "Manchester-Utd",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "mike",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 5,
-      "title": "Post 5",
+      "title": "Chelsea",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 6,
-      "title": "Post 6",
+      "title": "Liverpool",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
+      "brand": "Premier-League",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 7,
-      "title": "Post 7",
+      "title": "Paris-Saint-Germain",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "gang",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 8,
-      "title": "Post 8",
+      "title": "Olympique-Lion",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     },
     {
       "id": 9,
-      "title": "Post 9",
+      "title": "Nizza",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "brand": "iceice",
+      "brand": "Ligue-1",
       "price": "16$",
       "img": "http://lorempixel.com/g/700/400/"
     },
     {
       "id": 10,
-      "title": "Post 10",
+      "title": "Barcelona",
       "desc": ".",
-      "brand": "daje",
+      "brand": "Liga-Bancomer",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+     {
+      "id": 11,
+      "title": "Real-Madrid",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
+      "price": "16$",
+      "img": "https://via.placeholder.com/700x400"
+    },
+       {
+      "id": 12,
+      "title": "Atletico-Madrid",
+      "desc": "Lorem ipsum..",
+      "brand": "Liga-Bancomer",
       "price": "16$",
       "img": "https://via.placeholder.com/700x400"
     }
+    
   ],
   "herobanner": [
     {
