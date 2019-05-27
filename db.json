@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Juve",
-      "desc": "Lorem ipsum..",
+      "desc": "La Vecchia Signora",
       "brand": "Serie-A",
       "price": " € 924M",
       "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Juventus_Logo_2017.png"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "title": "Milan",
-      "desc": "Lorem ipsum ",
+      "desc": "Il Diavolo",
       "brand": "Serie-A",
       "price": "€ 576M",
       "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg"
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "title": "Napoli",
-      "desc": "Lorem ipsum ",
+      "desc": "Azzuri",
       "brand": "Serie-A",
       "price": " € 635M",
       "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/S.S.C._Napoli_logo.svg"
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "title": "ManchesterUtd",
-      "desc": "Lorem ipsum..",
+      "desc": "Red Devils",
       "brand": "Premier-League",
       "price": "€ 1001M",
       "img": "https://upload.wikimedia.org/wikipedia/it/2/26/Manchester_United_logo.png"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Chelsea",
-      "desc": "Lorem ipsum..",
+      "desc": "Blues",
       "brand": "Premier-League",
       "price": "€ 738M",
       "img": "https://upload.wikimedia.org/wikipedia/it/thumb/e/e2/Chelsea_FC_logo.svg/1200px-Chelsea_FC_logo.svg.png"
@@ -43,7 +43,7 @@
     {
       "id": 6,
       "title": "Liverpool",
-      "desc": "Lorem ipsum..",
+      "desc": "Reds",
       "brand": "Premier-League",
       "price": "€ 1387M",
       "img": "https://upload.wikimedia.org/wikipedia/it/e/e8/Liverpool_FC_logo.svg"
@@ -51,7 +51,7 @@
     {
       "id": 7,
       "title": "Paris-Saint-Germain",
-      "desc": "Lorem ipsum..",
+      "desc": "Les Parisiens",
       "brand": "Ligue-1",
       "price": "€ 888M",
       "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png"
@@ -59,7 +59,7 @@
     {
       "id": 8,
       "title": "Monaco",
-      "desc": "Lorem ipsum..",
+      "desc": "Les Rouges et Blanc",
       "brand": "Ligue-1",
       "price": "€ 305,55M",
       "img": "https://upload.wikimedia.org/wikipedia/it/9/9c/Logo_AS_Monaco_2013.png"
@@ -67,7 +67,7 @@
     {
       "id": 9,
       "title": "Nizza",
-      "desc": "Lorem ipsum..",
+      "desc": "Les Aiglons",
       "brand": "Ligue-1",
       "price": "€ 145,20M",
       "img": "https://upload.wikimedia.org/wikipedia/it/archive/1/1f/20130529151204%21Logoogcn.jpg"
@@ -75,7 +75,7 @@
     {
       "id": 10,
       "title": "Barcelona",
-      "desc": "Lorem ipsum..",
+      "desc": "Blaugrana",
       "brand": "Liga-Bancomer",
       "price": "€ 1220M",
       "img": "https://upload.wikimedia.org/wikipedia/it/0/07/Fc_barcelona.png"
@@ -83,7 +83,7 @@
     {
       "id": 11,
       "title": "Real-Madrid",
-      "desc": "Lorem ipsum..",
+      "desc": "Blancos",
       "brand": "Liga-Bancomer",
       "price": "€ 806M",
       "img": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0c/Real_Madrid_CF_logo.svg/732px-Real_Madrid_CF_logo.svg.png"
@@ -91,7 +91,7 @@
     {
       "id": 12,
       "title": "Atletico-Madrid",
-      "desc": "Lorem ipsum..",
+      "desc": "Colchoneros",
       "brand": "Liga-Bancomer",
       "price": "€ 882M",
       "img": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Atletico_Madrid_2017_logo.svg/1200px-Atletico_Madrid_2017_logo.svg.png"
