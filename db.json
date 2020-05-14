@@ -210,7 +210,10 @@
       "img": "http://lorempixel.com/g/900/350/"
     },
     {
-      "img": "https://via.placeholder.com/900x35"
+      "img": "https://via.placeholder.com/900x350"
+    },
+    {
+      "img": "https://via.placeholder.com/900x350"
     }
   ],
   "brands": [
