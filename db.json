@@ -213,7 +213,13 @@
       "img": "https://via.placeholder.com/900x350"
     },
     {
+      "img": "http://lorempixel.com/g/900/350/"
+    },
+    {
       "img": "https://via.placeholder.com/900x350"
+    },
+    {
+      "img": "http://lorempixel.com/g/900/350/"
     }
   ],
   "brands": [
